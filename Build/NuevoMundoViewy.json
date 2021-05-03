@@ -1,0 +1,16 @@
+{
+"companyName": "Viewy",
+"productName": "NuevoMundoVirtual",
+"productVersion": "0.1",
+"dataUrl": "NuevoMundoViewy.data.unityweb",
+"wasmCodeUrl": "NuevoMundoViewy.wasm.code.unityweb",
+"wasmFrameworkUrl": "NuevoMundoViewy.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.9f1"
+}
